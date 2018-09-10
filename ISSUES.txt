@@ -1,0 +1,1 @@
+I was able to sucessfully download all of the applications except for Gimp. When I tried to download Gimp it would not let me on my computer and kept saying that it "could not be trusted." I tried several times and even tried a different way to download this application, but it still would not let me. Everything else downloaded great and fine with no issues. 
